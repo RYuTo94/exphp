@@ -1,4 +1,5 @@
 <?php
+    
     $num = mt_rand(1,100);
 
     if($num > 50){

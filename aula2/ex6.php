@@ -1,4 +1,5 @@
 <?php
+    
     $idade = 18;
     $casado = false;
     $sexo = "Outro";
@@ -8,6 +9,7 @@
     }
 
     echo "<br>";
+    
     //ex. a
     if($sexo == "Outro"){
         echo "Boas-vindas";

@@ -8,6 +8,7 @@
     }
 
     echo "<br>";
+    
     //ex. a
     if($num == 0 || $num > 50 && $num % 2 == 0){
         echo "O número cumpre a condição";
